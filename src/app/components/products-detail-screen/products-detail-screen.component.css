@@ -1,0 +1,41 @@
+.product-detail-info{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.product-code{
+    background-color:rgb(246, 166,83);
+    padding: 0 5px;
+    color: white;
+}
+.btn-back{
+    margin: 0;
+    color: white;
+    background-color: rgb(103, 177, 94);
+}
+.btn-back:hover{
+    color: white;
+    background-color:rgb(94, 177, 131);
+    text-decoration: none;
+}
+.btn-order-detail{
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(246, 166,83);
+}
+.btn-order-detail:hover{
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+}
+.product-btn{
+    padding: 7px;
+    border-radius: 3px;
+}
+.top-body{
+    background-color: rgb(238, 238, 238);
+    padding: 50px;
+}
+.product-header-slogan{
+    font-size: 80px;
+}

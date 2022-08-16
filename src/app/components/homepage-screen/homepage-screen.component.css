@@ -1,0 +1,41 @@
+.top-body {
+  background-color: rgb(238, 238, 238);
+  padding: 50px;
+}
+.product-header-slogan {
+  font-size: 80px;
+}
+
+.product-list {
+  padding-top: 50px;
+}
+.product {
+  border: rgb(238, 238, 238) 3px solid;
+  padding: 15px;
+  border-radius: 5px;
+}
+.product-btn {
+  padding: 7px;
+  border-radius: 3px;
+}
+.btn-order {
+  margin-left: 20px;
+  text-align: center;
+  color: white;
+  background-color: rgb(246, 166, 83);
+}
+.btn-order:hover {
+  background-color: orange;
+  color: white;
+  text-decoration: none;
+}
+.btn-detail {
+  margin-right: -10px;
+  color: white;
+  background-color: rgb(57, 136, 198);
+}
+.btn-detail:hover {
+  color: white;
+  background-color: rgb(57, 177, 198);
+  text-decoration: none;
+}

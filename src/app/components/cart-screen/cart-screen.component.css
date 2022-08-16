@@ -1,0 +1,17 @@
+/* Cart Screen */
+.top-body{
+    background-color: rgb(238, 238, 238);
+    padding: 50px;
+}
+.product-list-cart{
+    padding-top: 50px;
+}
+.product-name-column{
+    width: 500px;
+}
+.cart-btn-remove{
+   padding: 0 5px;
+}
+.product-header-slogan{
+    font-size: 80px;
+}
